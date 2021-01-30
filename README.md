@@ -7,7 +7,7 @@ This branch is code generate new JWT token and validata token genererated from A
    - Start server
    - URL: localhost:8080/authenticate (post)
    - POST BODY:
-            ```
+     ```
             {
               "userName": "Test1",
               "password": "value1"
