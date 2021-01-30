@@ -1,6 +1,6 @@
 # SpringBoot_JWT_Authrization_Service
 
-This branch is code generate new JWT token and validata token genererated from AUTH0 as well belwo are step:
+This branch will generate new JWT token and validata token genererated from AUTH0 as well belwo are step:
 
 1. If you want to generate new token
    - Take latest code
@@ -12,4 +12,7 @@ This branch is code generate new JWT token and validata token genererated from A
               "userName": "Test1",
               "password": "value1"
              }
- 2. If you want to generate new token
+ 2. New newly generated token needs to be validated you can use below get URL
+ - localhost:8080/validate
+ - In header send: 
+ -- key: authorization value: 
