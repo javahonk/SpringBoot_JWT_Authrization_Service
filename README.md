@@ -12,3 +12,4 @@ This branch is code generate new JWT token and validata token genererated from A
               "userName": "Test1",
               "password": "value1"
              }
+ 2. If you want to generate new token
