@@ -16,5 +16,5 @@ This branch will generate new JWT token and validata token genererated from AUTH
     - localhost:8080/validate
     - In header send: 
       - key: authorization
-      - value: custom <add generated key>
+      - value: custom add generated key
       - You will see response: User is validation is successful
